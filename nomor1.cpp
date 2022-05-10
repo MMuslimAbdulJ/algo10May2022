@@ -54,6 +54,6 @@ int main()
     maxmin(0, num - 1);
     printf("Maximum Angka : %i\n", ::max);
     printf("Minimum Angka : %i\n", ::min);
-    getch();
+    //getch();
     return 0;
 }
